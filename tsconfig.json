@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+      "target": "es2017",
+      "module": "commonjs", // Use commonjs here
+      "outDir": "./dist",
+      "rootDir": "./",
+      "strict": true,
+      "esModuleInterop": true,
+      "moduleResolution": "node"
+  },
+  "include": [
+    "*.ts"
+  ],
+  "exclude": [
+    "./dist",
+    "node_modules"
+  ]
+}

@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+**/node_modules/
+
+# Compiled files
+dist/
+build/
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# .env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# npm
+*.npm
+*.lock
