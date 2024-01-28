@@ -4,7 +4,7 @@
     "puppeteer": "^20.9.0"
   },
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "start": "node dist/index.js"
   },
   "devDependencies": {
     "typescript": "^5.3.3"
